@@ -1,0 +1,19 @@
+{
+  "name": "02_typescript-arrow-functions",
+  "version": "1.0.0",
+  "description": "### In this guide, we will setup a basic typescript project along with node.js.",
+  "main": "index.js",
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.11.24",
+    "typescript": "^5.3.3"
+  }
+}
